@@ -15,7 +15,6 @@ Sistema web de loja de jogos desenvolvido em **PHP + MySQL**, com área para cli
 ### Integrantes
 
 - Samuel do Amaral Fonseca
-- [Nome do integrante 2]
 
 ---
 
